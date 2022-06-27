@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638760818869",
+    "project_id": "nalika-12da1",
+    "storage_bucket": "nalika-12da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638760818869:android:30f5fa6cb2c52fb75186fc",
+        "android_client_info": {
+          "package_name": "com.example.nalika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638760818869-q5u1thou6amguu5f2j02dtl7hvotr3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIq3mDSTPd5A2iCYY2BmdXmWCOE8NmBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638760818869-q5u1thou6amguu5f2j02dtl7hvotr3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
